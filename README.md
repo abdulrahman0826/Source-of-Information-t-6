@@ -1,4 +1,4 @@
-# Source-of-Information
+# Source-of-Information Task-6/Cognifyz Technologies
 Source of Information Analysing using power bi
 **Project Overview and Value Proposition**
 This repository houses the Source of Information Analysis Power BI report, designed to provide comprehensive insight into how data, traffic, or customer engagement originates. The primary goal of this project is to map and quantify the effectiveness of various acquisition channels, content strategies, or reference points that feed into a central system or dataset.
